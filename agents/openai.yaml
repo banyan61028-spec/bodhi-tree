@@ -1,0 +1,4 @@
+interface:
+  display_name: "循证产品拆解"
+  short_description: "基于截图、网站或源码，按用户/技术/模型/数据四层输出HTML拆解"
+  default_prompt: "请基于我提供的一手产品证据，先判断产品类型与证据完整性，再按用户层、技术层、模型层、数据层完成可追溯拆解，并输出 HTML 文件。"
